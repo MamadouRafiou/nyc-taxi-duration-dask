@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+*.parquet
+predictions_february_2024/
+*.joblib
